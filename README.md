@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heyyy, I'm Sena 👻 🎸 💻📲 
 
 I'm Sena, a mobile application developer who loves building apps with [Flutter](https://github.com/flutter/flutter). Currently studying at [Ecole 42](https://42.fr/en/what-is-42/42-program-explained/), I'm passionate about science, technology, and learning new things.
 
