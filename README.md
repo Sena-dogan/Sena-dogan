@@ -12,7 +12,7 @@
 </pre>
 <br><br>
 
-<img src="https://raw.github.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://raw.github.com/innng/innng/master/assets/kyubey.gif" height="70" />
 <br><br><br>
 
     
