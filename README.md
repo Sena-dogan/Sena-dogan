@@ -1,17 +1,21 @@
-### Hey there, I'm Sena! 👻 🎸 👩‍💻
+<div align="center">
 
-Welcome to my little corner of the internet!
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Heyy,+I'm+Sena!+%F0%9F%91%BB;I'm+a+Flutter+Developer...;...and+Science+Enthusiast!+%F0%9F%A7%AA" width="70%" />
+<br><br>
 
-I'm a **Mobile Developer** who absolutely adores building beautiful, smooth apps with **Flutter** 📱💖.
+<pre>
+    🎓 Student @ Yildiz Technical University
+    💻 Flutter Developer • Mobile App Dev
+    🧪 Science • Technology • Open Source
+    💙 Building beautiful, smooth apps
+    🏀 Basketball • 🎸 Music • 🎮 Games • 🎨 Art • 🚗 Cars
+</pre>
+<br><br>
 
-When I'm not pushing pixels, I'm a student at **Yildiz Technical University** 🎓, diving deep into the world of **science and technology** 🧪. I'm basically fueled by curiosity (and probably too much coffee ☕).
+<img src="https://raw.github.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
 
-This is where I share the projects and packages I've crafted. Feel free to look around!
-
----
-
-### ✨ Let's Connect & Collaborate!
-
-I'm always excited to learn from others and contribute to the open-source community. If you want to build something amazing, chat about tech, or just say hi, my DMs are always open!
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/zeynep-sena-dogan) [![Website Badge](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sena-dogan.github.io/cv_bumblebee/)
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://tr.linkedin.com/in/zeynep-sena-dogan)
+[![](https://img.shields.io/badge/website-ff66ab)](https://sena-dogan.github.io/cv_bumblebee/)
+</div>
