@@ -5,7 +5,7 @@
 <br><br>
 
 <pre>
-    🎓 Student @ Yildiz Technical University
+    🎓 Physics Student @ Yildiz Technical University
     💻 Flutter Developer • Mobile App Dev
     🧪 Science • Technology • Open Source
     💙 Building beautiful, smooth apps
