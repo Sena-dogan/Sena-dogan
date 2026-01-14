@@ -19,6 +19,6 @@
 <br><br><br>
 
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://tr.linkedin.com/in/zeynep-sena-dogan)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/sena-dogan-dev/)
 [![](https://img.shields.io/badge/website-ff66ab)](https://sena-dogan.github.io/cv_bumblebee/)
 </div>
