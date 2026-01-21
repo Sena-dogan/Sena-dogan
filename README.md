@@ -26,10 +26,10 @@ When I'm not coding, you'll find me playing basketball 🏀, getting lost in mus
 *   **Community:** 3 years volunteering with GDG Istanbul.
 
 ### 🎓 Education & Background
-*   **Physics:** Yildiz Technical University (Bachelor's)
-*   **Computer Science:** École 42 (C/C++ Mastery)
-*   **Visual Communication Design:** Anadolu University (Bachelor's)
-*   **Quantum Programming:** QWorld (QBronze Certificate)
+*   **Physics:** Yildiz Technical University (Bachelor's)(2021-Present)
+*   **Computer Science:** École 42 (C/C++ Mastery)(2021-2023)
+*   **Visual Communication Design:** Anadolu University (Bachelor's)(2025-Present)
+*   **Quantum Programming:** QWorld (QBronze Certificate)(2025)
 
 ### 🛠️ Tech Stack
 **Flutter • Dart • C/C++ • Qt 6 • UI/UX Design**
